@@ -39,3 +39,5 @@ npm run dev
 
 ### Then open in your browser:
 👉 http://localhost:5173
+
+![img_3.png](img_3.png)
